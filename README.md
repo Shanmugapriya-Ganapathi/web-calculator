@@ -24,5 +24,6 @@ A simple web-based calculator that performs basic arithmetic operations like add
    open index.html
    ```
 ## Output Page:
-
-
+![calculator](https://github.com/user-attachments/assets/cc7d6ea5-aa3d-49ed-a8dd-93d3bb18e114)
+![calculator2](https://github.com/user-attachments/assets/e10406f1-5207-430b-bfcd-b1afe7ed1f8a)
+![calculator3](https://github.com/user-attachments/assets/ea380867-7ecc-464f-8d79-8203f118ea28)
